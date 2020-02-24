@@ -1,6 +1,6 @@
 ## Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of Yorùbá and Twi
 
-In the paper, we presented curated word and contextual embeddings for Yorùbá and Twi. For this purpose, we gather and select corpora and study the most appropriate techniques for the languages. We also create test sets for the evaluation of the word embeddings within a word similarity task (wordsim353) and the contextual embeddings within a NER task. The Corpora are available here while the embeddings and test sets are available in <a href="https://drive.google.com/drive/folders/1jkwLBkxJhnfVvf1yd7PyZw0nY8aNYaNN?usp=sharing">here</a>. 
+In the paper, we compared pre-trained word embeddings(Fasttext and BERT) and embeddings obtained from curated for Yorùbá and Twi. For this purpose, we gather and select corpora and study the most appropriate techniques for the languages. We also create test sets for the evaluation of the word embeddings within a word similarity task (wordsim353) and the contextual embeddings within a NER task. The Corpora are available here while the embeddings and test sets are available in <a href="https://drive.google.com/drive/folders/1jkwLBkxJhnfVvf1yd7PyZw0nY8aNYaNN?usp=sharing">here</a>. 
 
 
 For the comparison, we define 3 datasets according to the quality and quantity of textual data used for training: 
