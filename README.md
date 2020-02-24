@@ -9,3 +9,6 @@ For the comparison, we define 3 datasets according to the quality and quantity o
 3. Curated Large Dataset, C3 consists of all available texts we are able to crawl and source out for, either clean or noisy (<a href="https://drive.google.com/drive/folders/1jkwLBkxJhnfVvf1yd7PyZw0nY8aNYaNN?usp=sharing">Twi</a>, <a href="https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/C3">Yorùbá</a>).
 
 Data set from the Niger Volta-Language Technology Institute can be gotten<a href="https://github.com/Niger-Volta-LTI/yoruba-text"> here  </a>
+
+If you use any of the resources in this page, please cite the paper:
+
