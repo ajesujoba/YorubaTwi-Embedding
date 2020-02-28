@@ -1,0 +1,354 @@
+S/N,English1,English2,Yoruba1,Yoruba2,EngSim
+1,tiger,cat,ẹkùn,ológbò,7.35
+2,tiger,tiger,ẹkùn,ẹkùn,10
+3,book,paper,ìwé,bébà,7.46
+4,computer,keyboard,kọ̀mpútà,pátákó ìtẹ̀wé,7.62
+5,computer,internet,kọ̀mpútà,ayélujára,7.58
+6,plane,car,ọkọ̀-òfúrufú,ọkọ̀,5.77
+7,train,car,ọkọ̀-ojú-irin,ọkọ̀,6.31
+8,telephone,communication,ẹ̀rọ-ìbáaraẹnisọ̀rọ̀,ìbáaraẹnisọ̀rọ̀,7.5
+9,television,radio,tẹlifósìọ̀nù,rédíò,6.77
+10,media,radio,ìkansíra-ẹni,rédíò,7.42
+11,drug,abuse,òògùn,àsìlò,6.85
+12,bread,butter,búrẹ́dì,bọ́tà,6.19
+13,cucumber,potato,kùkúmbà,ànàmọ́,5.92
+14,doctor,nurse,dókítà,nọ́ọ̀sì,7
+15,professor,doctor,ọ̀jọ̀gbọ́n,ọ̀mọ̀wé,6.62
+16,student,professor,akẹ́kọ̀ọ́,ọ̀jọ̀gbọ́n,6.81
+17,smart,student,ajáfáfá,akẹ́ẹ̀kọ́,4.62
+18,smart,stupid,ọlọgbọ́n,ọmùgọ̀,5.81
+19,company,stock,ilé-iṣẹ́,àkójọ-ọjà,7.08
+20,stock,market,àkójọ-ọjà,ọjà,8.08
+21,stock,phone,àkójọ-ọjà,fóònù,1.62
+22,stock,CD,àkójọ-ọjà,sídì,1.31
+23,stock,jaguar,àkójọ-ọjà,jágúà,0.92
+24,stock,egg,àkójọ-ọjà,ẹyin,1.81
+25,fertility,egg,ọlọ́mọ,ẹyin,6.69
+26,stock,live,àkójọ-ọjà,ààyè,3.73
+27,stock,life,àkójọ-ọjà,ààyè,0.92
+28,book,library,ìwé,ilé ìyáwèékàwé,7.46
+29,bank,money,ilé-ìfowópamọ́,owó,8.12
+30,wood,forest,igi,igbó,7.73
+31,money,cash,owó,ìkàsì,9.15
+32,professor,cucumber,ọ̀jọ̀gbọ́n,kùkúmbà,0.31
+33,king,cabbage,ọba,kábéègì,0.23
+34,king,queen,ọba,ayaba,8.58
+35,king,rook,ọba,ìyànjẹ,5.92
+36,bishop,rabbi,olórí-àlùúfà,olùkọ́ni,6.69
+37,Jerusalem,Israel,jerúsálẹ́ẹ́mùù,ísírẹ́ẹ̀lì,8.46
+38,Jerusalem,Palestinian,jerúsálẹ́ẹ́mùù,palẹ́sínì,7.65
+39,holy,sex,mímọ́,ìbálòpọ̀,1.62
+40,Maradona,football,Maradona,bọ́ọ̀lù-aláfẹsẹ̀gbá,8.62
+41,football,soccer,bọ́ọ̀lù-aláfẹsẹ̀gbá,bọ́ọ̀lù,9.03
+42,football,basketball,bọ́ọ̀lù-aláfẹsẹ̀gbá,bọ́ọ̀lù-inú-àgbọ̀n,6.81
+43,football,tennis,bọ́ọ̀lù-aláfẹsẹ̀gbá,tẹníìsì,6.63
+44,tennis,racket,tẹníìsì,rákẹ́ẹ̀tì,7.56
+45,Arafat,peace,àràfá,àlááfìà,6.73
+46,Arafat,terror,àràfá,ẹ̀rù,7.65
+47,Arafat,Jackson,àràfá,jackson,2.5
+48,law,lawyer,òfin,agbẹjọ́rọ̀,8.38
+49,movie,star,eré,gbájúgbajà,7.38
+50,movie,popcorn,eré,gúgúrú,6.19
+51,movie,critic,eré,lámèétọ́,6.73
+52,movie,theater,eré,eré orí-ìtàgé,7.92
+53,physics,proton,físísì,protonu,8.12
+54,physics,chemistry,físísì,kẹ́mísírì,7.35
+55,space,chemistry,ààyè,kẹ́mísírì,4.88
+56,alcohol,chemistry,ọtí,kẹ́mísírì,5.54
+57,vodka,gin,ọtí-fódíkà,ọtí-jíìnì,8.46
+58,vodka,brandy,ọtí-fódíkà,otí-bráńdì,8.13
+59,drink,car,mu,ọkọ̀,3.04
+60,drink,ear,mu,etí,1.31
+61,drink,mouth,mu,ẹnu,5.96
+62,drink,eat,mu,jẹ,6.87
+63,baby,mother,ọmọ-ọwọ́,ìyá,7.85
+64,drink,mother,mu,ìyá,2.65
+65,car,automobile,ọkọ̀,ohun-èlò arìnnà,8.94
+66,gem,jewel,sọ,iyebíye,8.96
+67,journey,voyage,ìrìn-àjò,irìn-àjò,9.29
+68,boy,lad,ọmọkùnrin,ọmọdé,8.83
+69,coast,shore,etí-òkun,etídò,9.1
+70,asylum,madhouse,ibi-ààbò,ilé ìtọ́jú asínwín,8.87
+71,magician,wizard,òpidán,osó,9.02
+72,midday,noon,òòrìn,ọjọ́kanrí,9.29
+73,furnace,stove,ile-iná,ìdáná,8.79
+74,food,fruit,oúnjẹ,èso,7.52
+75,bird,cock,ẹyẹ,àkùkọ,7.1
+76,bird,crane,ẹyẹ,otí-bráńdì,7.38
+77,tool,implement,irinṣẹ́,irinṣẹ́,6.46
+78,brother,monk,arákùnrin,aráyé,6.27
+79,crane,implement,irinṣẹ́-ìgbe-nǹkanwúwo,ṣe,2.69
+80,lad,brother,ọmọdé,arákùnrin,4.46
+81,journey,car,ìrìnàjò,ọkọ̀,5.85
+82,monk,oracle,arákùnrin,awòràwọ,5
+83,cemetery,woodland,ibi-ìsìnkú,ilẹ̀-igbó,2.08
+84,food,rooster,oúnjẹ,akùkọ,4.42
+85,coast,hill,etídò,òkè,4.38
+86,forest,graveyard,igbó,ibojì,1.85
+87,shore,woodland,etídò,ilẹ̀-igbó,3.08
+88,monk,slave,arákùnrin,ẹrú,0.92
+89,coast,forest,etídò,igbó,3.15
+90,lad,wizard,ọmọdé,osó,0.92
+91,chord,smile,okùn,ẹ̀rín,0.54
+92,glass,magician,ìgò,apidán,2.08
+93,noon,string,ọjọ́kanrí,okùn,0.54
+94,rooster,voyage,akùkọ,ìrìn-ajò,0.62
+95,money,dollar,owó,dọ́là,8.42
+96,money,cash,owó,ìkàsì,9.08
+97,money,currency,owó,kọ́rẹ́nsì,9.04
+98,money,wealth,owó,ọrọ̀,8.27
+99,love,sex,ìfẹ́,ìbálòpọ̀,6.77
+100,money,property,owó,dúkìá,7.57
+101,money,possession,owó,ìní,7.29
+102,money,bank,owó,ilé-ìfowópamọ́,8.5
+103,money,deposit,owó,ìfówópamọ́,7.73
+104,money,withdrawal,owó,ìgbowó,6.88
+105,money,laundering,owó,ìkówórelí-òkèrè,5.65
+106,money,operation,owó,ìsiṣẹ́,3.31
+107,tiger,jaguar,ẹkùn,àmọ̀tẹ́kùn,8
+108,tiger,feline,ẹkùn,ológbò,8
+109,tiger,carnivore,ẹkùn,ajẹran,7.08
+110,tiger,mammal,ẹkùn,afọ́mọlọ́mú,6.85
+111,tiger,animal,ẹkùn,ẹranko,7
+112,tiger,organism,ẹkùn,abẹ̀mí,4.77
+113,tiger,fauna,ẹkùn,àkójọpọ̀ ẹranko,5.62
+114,tiger,zoo,ẹkùn,ọgbà-ẹranko,5.87
+115,psychology,psychiatry,ìmọ̀ nípa ẹ̀dá,ajẹmọ́-arùn-ọpọlọ,8.08
+116,psychology,anxiety,ìmọ̀ nípa ẹ̀dá,ìjayà,7
+117,psychology,fear,ìmọ̀ nípa ẹ̀dá,ìbẹ̀rù,6.85
+118,psychology,depression,ìmọ̀ nípa ẹ̀dá,ìrẹ̀wẹ̀sì-ọkàn,7.42
+119,psychology,clinic,ìmọ̀ nípa ẹ̀dá,ilé ìwòsàn,6.58
+120,psychology,doctor,ìmọ̀ nípa ẹ̀dá,dókítà,6.42
+121,psychology,Freud,ìmọ̀ nípa ẹ̀dá,freud,8.21
+122,psychology,mind,ìmọ̀ nípa ẹ̀dá,ọkàn,7.69
+123,psychology,health,ìmọ̀ nípa ẹ̀dá,ìlera,7.23
+124,psychology,science,ìmọ̀ nípa ẹ̀dá,sáyẹ́ńsì,6.71
+125,psychology,discipline,ìmọ̀ nípa ẹ̀dá,ìsẹ́ra-eni,5.58
+126,psychology,cognition,ìmọ̀ nípa ẹ̀dá,ìmọ̀,7.48
+127,planet,star,ayé,ìràwọ̀,8.45
+128,planet,constellation,ayé,ifi-ìràwọ̀sípò,8.06
+129,planet,moon,ayé,òsùpá,8.08
+130,planet,sun,ayé,òòrùn,8.02
+131,planet,galaxy,ayé,ajọ òsùpá,8.11
+132,planet,space,ayé,òfururú,7.92
+133,planet,astronomer,ayé,awòràwọ,7.94
+134,precedent,example,íṣájú,àpẹẹrẹ,5.85
+135,precedent,information,íṣájú,ìfitóniléti,3.85
+136,precedent,cognition,íṣájú,ìmọ̀,2.81
+137,precedent,law,íṣájú,òfin,6.65
+138,precedent,collection,íṣájú,akójọ,2.5
+139,precedent,group,íṣájú,ẹgbẹ́,1.77
+140,precedent,antecedent,íṣájú,ṣíṣaájú,6.04
+141,cup,coffee,ife,kọfí,6.58
+142,cup,tableware,ife,ohun èlò aṣetábílì lọ́sọ̀ọ́,6.85
+143,cup,article,ife,abáláyé,2.4
+144,cup,artifact,ife,abáláyé,2.92
+145,cup,object,ife,eròjà,3.69
+146,cup,entity,ife,nǹkan,2.15
+147,cup,drink,ife,ìmumi,7.25
+148,cup,food,ife,ounjẹ,5
+149,cup,substance,ife,nǹkan,1.92
+150,cup,liquid,ife,ajẹmómi,5.9
+151,jaguar,cat,amọ̀tẹ́kùn,ológbò,7.42
+152,jaguar,car,amọ̀tẹ́kùn,ọkọ̀,7.27
+153,energy,secretary,agbára,akọ̀wé,1.81
+154,secretary,senate,akọ̀wé,asòfin,5.06
+155,energy,laboratory,agbára,ìyàrá ìṣèwádìí,5.09
+156,computer,laboratory,kọ̀mpútà,iyàrá ìṣèwádìí,6.78
+157,weapon,secret,ohun-ìjà,àsírí,6.06
+158,FBI,fingerprint,fbi,ìtẹ-ilà ọwọ́,6.94
+159,FBI,investigation,fbi,ìwádìí,8.31
+160,investigation,effort,ìṣewádìí,akitiyan,4.59
+161,Mars,water,máàsì,omi,2.94
+162,Mars,scientist,máàsì,onímọ̀ sáyẹ́ǹsì,5.63
+163,news,report,ìròyìn,ìjábọ̀,8.16
+164,canyon,landscape,àfónífójì-olómi,àlà-ilẹ̀,7.53
+165,image,surface,àwòrán,ojú,4.56
+166,discovery,space,àwárí,àyè,6.34
+167,water,seepage,omi,ìríran,6.56
+168,sign,recess,ààmì,ìdádúró,2.38
+169,Wednesday,news,ọjọ́rú,ìròyìn,2.22
+170,mile,kilometer,máílì,kìlómítà,8.66
+171,computer,news,kọ̀mpútà,ìròyìn,4.47
+172,territory,surface,agbègbè,ojú,5.34
+173,atmosphere,landscape,ojú ayé,àlà-ilẹ̀,3.69
+174,president,medal,ààrẹ,oyè-ẹ̀yẹ,3
+175,war,troops,ogun,ọmọ-ọgun,8.13
+176,record,number,àkọsílẹ̀,nọ́mbà,6.31
+177,skin,eye,àwọ-ara,ojú,6.22
+178,Japanese,American,Japaníìsì,Amẹ́ríkà,6.5
+179,theater,history,eré-orí-ìtagé,ìtàn,3.91
+180,volunteer,motto,olùfarajìn,àkọmọ̀nà,2.56
+181,prejudice,recognition,ẹ̀tanú,ìdánimọ̀,3
+182,decoration,valor,ìṣelọ́sọ̀ọ́,ìsakíkanjú,5.63
+183,century,year,ọgọ́rùn-ún ọdún,ọdún,7.59
+184,century,nation,ọgọ́rùn-ún ọdún,orílẹ̀-èdè,3.16
+185,delay,racism,ìdádúró,ẹlẹ́yàmẹ̀yà,1.19
+186,delay,news,ìdádúró,ìròyìn,3.31
+187,minister,party,mínísítà,ẹgbẹ́,6.63
+188,peace,plan,àlááfíà,èrò,4.75
+189,minority,peace,ìpín-kékeré,àlááfíà,3.69
+190,attempt,peace,gbìyànjú,àlááfíà,4.25
+191,government,crisis,ìjọba,wàhálà,6.56
+192,deployment,departure,ìmúṣiṣẹ́,lílọ,4.25
+193,deployment,withdrawal,ìmúṣiṣẹ́,ìmúkúrò,5.88
+194,energy,crisis,agbára,wàhálà,5.94
+195,announcement,news,ìkéde,ìròyìn,7.56
+196,announcement,effort,ìkéde,akitiyan,2.75
+197,stroke,hospital,rọlápá-rọlẹ́sẹ̀,ilé-ìwòsàn,7.03
+198,disability,death,àlébù,ikú,5.47
+199,victim,emergency,olùgbàdì,pàjáwìrì,6.47
+200,treatment,recovery,ìtọ́jú,ìmúbọ̀sípò,7.91
+201,journal,association,jọ́nà,ẹgbẹ́,4.97
+202,doctor,personnel,dókítà,òṣìṣẹ́,5
+203,doctor,liability,dókítà,gbèsè,5.19
+204,liability,insurance,gbèsè,ìdójútòfò,7.03
+205,school,center,ilé-ìwé,ibi-ìṣẹ́,3.44
+206,reason,hypertension,ìdí,ẹ̀jẹ̀-ríru,2.31
+207,reason,criterion,ìdí,òdùnwọ̀n,5.91
+208,hundred,percent,ọgọ́rùn-ún,ìdá,7.38
+209,Harvard,Yale,háfàdì,yálè,8.13
+210,hospital,infrastructure,ilé-ìwòsàn,ìmáyédẹrùn,4.63
+211,death,row,ikú,ọ̀wọ́,5.25
+212,death,inmate,ikú,ẹlẹ́wọ̀n,5.03
+213,lawyer,evidence,agbẹjọ́rò,ẹ̀rí,6.69
+214,life,death,ìyè,ikú,7.88
+215,life,term,ìyè,sáà,4.5
+216,word,similarity,ọ̀rọ̀,ìbájọra,4.75
+217,board,recommendation,ìgbìmọ aláṣe,àbá,4.47
+218,governor,interview,gómìnà,ìfọ̀rọ̀wánilẹ́nuwò,3.25
+219,OPEC,country,opec,orílẹ̀-èdè,5.63
+220,peace,atmosphere,àlááfíà,ojú ọ̀rùn,3.69
+221,peace,insurance,àlááfíà,ìdójútòfò,2.94
+222,territory,kilometer,agbègbè,kìlómítà,5.28
+223,travel,activity,ìrìnàjò,ìṣe,5
+224,competition,price,ìdíje,ìdíyelé,6.44
+225,consumer,confidence,oníbàárà,ìgboyà,4.13
+226,consumer,energy,oníbàárà,agbára,4.75
+227,problem,airport,ìṣòro,pápá ọkọ̀-òfúrufú,2.38
+228,car,flight,ọkọ̀,ọkọ̀-òfurufú,4.94
+229,credit,card,kírẹ́díìtì,káàdì,8.06
+230,credit,information,kírẹ́díìtì,ìfitóniléti,5.31
+231,hotel,reservation,òtẹ́ẹ̀lì,ìgbàyèsílẹ̀,8.03
+232,grocery,money,ìta-èèlò,owó,5.94
+233,registration,arrangement,ìforúkọsílẹ̀,ètò,6
+234,arrangement,accommodation,ètò,ibùgbé,5.41
+235,month,hotel,oṣù,òtẹ́ẹ̀lì,1.81
+236,type,kind,oríìsí,irú,8.97
+237,arrival,hotel,dídé,òtẹ́ẹ̀lì,6
+238,bed,closet,ibùsùn,kọ́lọ́fín,6.72
+239,closet,clothes,kọ́lọ́fín,aṣọ,8
+240,situation,conclusion,ipò,ìparí,4.81
+241,situation,isolation,ipò,ìyàsọ́tọ̀,3.88
+242,impartiality,interest,àìsojúsàájú,ifẹ́,5.16
+243,direction,combination,ìtọ́sọ́nà,àkójọpọ̀,2.25
+244,street,place,òpópónà,ibi,6.44
+245,street,avenue,òpópónà,ọ̀nà,8.88
+246,street,block,òpópónà,ibùsọ̀,6.88
+247,street,children,òpópónà,ọmọ,4.94
+248,listing,proximity,gbígbọ́,ìṣúmọ́tòsí,2.56
+249,listing,category,gbígbọ́,ẹka,6.38
+250,cell,phone,sẹ́ẹ̀lì,fóònù,7.81
+251,production,hike,ìgbéṣẹ́-jáde,ìgbówólórí,1.75
+252,benchmark,index,gbèdéke,sẹ́ẹ̀lì,4.25
+253,media,trading,ìbánisọ̀rọ̀,ìṣòwò,3.88
+254,media,gain,ìbánisọ̀rọ̀,jèèrè,2.88
+255,dividend,payment,èrè,ìsanwó,7.63
+256,dividend,calculation,èrè,ìsirò,6.48
+257,calculation,computation,ìsirò,ìdíyelé,8.44
+258,currency,market,kọ́rẹ́ńsì,ọjà,7.5
+259,OPEC,oil,opec,eepo,8.59
+260,oil,stock,eepo,àkójọ-ọjà,6.34
+261,announcement,production,ìkéde,ìgbésẹ́jáde,3.38
+262,announcement,warning,ìkéde,ìkìlọ̀,6
+263,profit,warning,èrè,ìkìlọ̀,3.88
+264,profit,loss,èrè,pàdánù,7.63
+265,dollar,yen,dọ́là,yẹ́ẹ̀nì,7.78
+266,dollar,buck,dọ́là,dọ́là kan,9.22
+267,dollar,profit,dọ́là,èrè,7.38
+268,dollar,loss,dọ́là,pàdánù,6.09
+269,computer,software,kọ̀mpútà,ajẹ́kọ̀mpútà ó siṣẹ́,8.5
+270,network,hardware,ìtàkùn,̀ẹ̀rọ,8.31
+271,phone,equipment,fóònù,ohun-èlò,7.13
+272,equipment,maker,ohun-èlò,olùṣe,5.91
+273,luxury,car,afẹ́-ayé,ọkọ̀,6.47
+274,five,month,márùn-ún,osù,3.38
+275,report,gain,àbọ̀,jèèrè,3.63
+276,investor,earning,olùdókòòwò,iye tó ń wọlé,7.13
+277,liquid,water,olómi,omi,7.89
+278,baseball,season,bóòlù-ọlọ́ọ̀pá,ìgbà,5.97
+279,game,victory,eré-ìdárayá,ìṣẹ́gun,7.03
+280,game,team,eré-ìdárayá,ẹgbẹ́,7.69
+281,marathon,sprint,ere ọlọ́gbanrangandan,ẹ̀mí,7.47
+282,game,series,eré-ìdárayá,orísìírísìí,6.19
+283,game,defeat,eré-ìdárayá,pàdánù,6.97
+284,seven,series,méje,orísìírísìí,3.56
+285,seafood,sea,oúnjẹ-odò,òkun,7.47
+286,seafood,food,oúnjẹ-odò,oúnjẹ,8.34
+287,seafood,lobster,oúnjẹ-odò,akọ-edé,8.7
+288,lobster,food,akọ-edé,oúnjẹ,7.81
+289,lobster,wine,akọ-edé,otí-wáìnì,5.7
+290,food,preparation,oúnjẹ,sísè,6.22
+291,video,archive,fídíò,ìbi ìselọ́jọ̀,6.34
+292,start,year,ìbẹ̀rẹ̀,ọdún,4.06
+293,start,match,ìbẹ̀rẹ̀,báramu,4.47
+294,game,round,eré-ìdárayá,roboto,5.97
+295,boxing,round,ẹ̀ṣẹ́-kíkàn,roboto,7.61
+296,championship,tournament,ìdíje,ìfagagbága,8.36
+297,fighting,defeating,ìjà,ìgbàjákulẹ̀,7.41
+298,line,insurance,ìlà,ìdójútòfò,2.69
+299,day,summer,ọjọ́,ẹ́ẹ́rùn,3.94
+300,summer,drought,̀ẹ̀ẹ̀rùn,ọ̀gbẹlẹ̀,7.16
+301,summer,nature,̀ẹ̀ẹ̀rùn,ayé,5.63
+302,day,dawn,ọjọ́,àfẹ̀júmọ́,7.53
+303,nature,environment,ayé,àyíká,8.31
+304,environment,ecology,àyíká,ìmọ̀ nípa àyíká,8.81
+305,nature,man,àdámọ́,ọkùnrin,6.25
+306,man,woman,ọkùnrin,obìnrin,8.3
+307,man,governor,ọkùnrin,gómìnà,5.25
+308,murder,manslaughter,ìpànìyàn,ìṣekúpani,8.53
+309,soap,opera,ọṣẹ,eré,7.94
+310,opera,performance,eré,ìṣe,6.88
+311,life,lesson,ìgbésí-ayé,ẹ̀kọ́,5.94
+312,focus,life,àfojúsí,ìgbésí-ayé,4.06
+313,production,crew,ìgbéṣẹ́jáde,òsìṣẹ́,6.25
+314,television,film,tẹlifísàn,fíìmù,7.72
+315,lover,quarrel,olólùfẹ́,aáwọ̀,6.19
+316,viewer,serial,òǹwòran,ojú-òpó,2.97
+317,possibility,girl,óṣeóṣe,ọmọbìrin,1.94
+318,population,development,iye-ènìyàn,ìdàgbàsókè,3.75
+319,morality,importance,ìwà ọmọlúàbí,pàtàkì,3.31
+320,morality,marriage,ìwà ọmọlúàbí,ìgbéyàwó,3.69
+321,Mexico,Brazil,mẹ́síkò,bìràsílì,7.44
+322,gender,equality,akọnbábo,ìdọ́gba,6.41
+323,change,attitude,àyípadà,ìhà kíkọ sí nǹkan,5.44
+324,family,planning,ìdílé,ìṣetò,6.25
+325,opera,industry,eré,ilé-iṣẹ́,2.63
+326,sugar,approach,súgà,ọ̀nà,0.88
+327,practice,institution,ìṣe,ìgbékalẹ̀,3.19
+328,ministry,culture,ilé-iṣẹ́,àṣà,4.69
+329,problem,challenge,ìṣòro,ìpèníjà,6.75
+330,size,prominence,ìwọ̀n,fojúhàn,5.31
+331,country,citizen,orílẹ̀-èdè,ọmọ irílẹ̀-èdè,7.31
+332,planet,people,ayé,ènìyàn,5.75
+333,development,issue,ìdàgbàsókè,ọ̀rọ̀,3.97
+334,experience,music,ìrírí,orin,3.47
+335,music,project,orín,àkànṣe iṣẹ́,3.63
+336,glass,metal,gíláàsì,irin,5.56
+337,aluminum,metal,baba,irin,7.83
+338,chance,credibility,ààyè,ìwúlò,3.88
+339,exhibit,memorabilia,sàfihàn,ohun-ìrántí,5.31
+340,concert,virtuoso,eré-orin,àgbà-òṣèré,6.81
+341,rock,jazz,rock,jazz,7.59
+342,museum,theater,ìlé-ìsẹ̀mbáyé,eré-orí-ìtàgé,7.19
+343,observation,architecture,àkíyèsí,àwòrán ilégbèé,4.38
+344,space,world,àyè,àgbáyé,6.53
+345,preservation,world,ìfipamọ́,àgbáyé,6.19
+346,admission,ticket,ìgbàwọlé,ìwé aṣe ìgbaniwọlé,7.69
+347,shower,thunderstorm,òjò,ààrá,6.31
+348,shower,flood,òjò,̀ẹ̀kún ọmi,6.03
+349,weather,forecast,ojú-ọjọ́,àsọtẹ́lẹ̀ ojú ọjọ́,8.34
+350,disaster,area,àjálù,agbègbè,6.25
+351,governor,office,gómìnà,ọ́físì,6.34
+352,architecture,century,àwòrán ilégbèé,ọgbọ́rùn-ún ọdún,3.78
+353,Fuck,Sex,fọ́ọ̀kì,ìbálòpọ̀,9.44
