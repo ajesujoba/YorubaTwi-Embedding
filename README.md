@@ -16,10 +16,4 @@ Data set from the Niger Volta-Language Technology Institute can be gotten<a href
 
 If you use any of the resources in this page, please cite the paper:
 
-@inproceedings{alabi2019massive,
-author={Alabi, Jesujoba O and Amponsah-Kaakyire, Kwabena and Adelani, David I and Espa{\~n}a-Bonet, Cristina},
-year = {2020},
-title={Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of {Yor$\backslash$ub$\backslash$'a} and {Twi}},
-booktitle = {LREC},
-}
-
+Jesujoba  O  Alabi,  Kwabena  Amponsah-Kaakyire,  David  I  Adelani,  and  Cristina  Espa ̃na-Bonet.Massive vs. curated word embeddings for low-resourced languages. the case of Yor\ub\’a andTwi. In LREC, 2020
