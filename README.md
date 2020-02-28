@@ -15,6 +15,7 @@ The evaluation datasets are the following:
 Data set from the Niger Volta-Language Technology Institute can be gotten<a href="https://github.com/Niger-Volta-LTI/yoruba-text"> here  </a>
 
 If you use any of the resources in this page, please cite the paper:
+
 @inproceedings{alabi2019massive,
 author={Alabi, Jesujoba O and Amponsah-Kaakyire, Kwabena and Adelani, David I and Espa{\~n}a-Bonet, Cristina},
 year = {2020},
