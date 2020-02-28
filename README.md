@@ -9,8 +9,8 @@ For the comparison, we define 3 datasets according to the quality and quantity o
 3. Curated Large Dataset, C3 consists of all available texts we are able to crawl and source out for, either clean or noisy (<a href="https://drive.google.com/drive/folders/1cQ5lap1sn-SYbr9LdNo6Xqr--O0l60IQ">Twi</a>, <a href="https://drive.google.com/drive/folders/1fFuP5CBWbMAHn3SP_8kc3eVgf9cozWKW">Yorùbá</a>).
 
 The evaluation datasets are the following:
-1) Translated WordSim-353 for <a href="https://github.com/Niger-Volta-LTI/yoruba-text">Twi</a>
-2) Translated WordSim-353 for <a href="https://github.com/Niger-Volta-LTI/yoruba-text">Yorùbá</a>
+1) Translated WordSim-353 for <a href="https://github.com/ajesujoba/YorubaTwi-Embedding/blob/master/Twi/wordsim_tw.csv">Twi</a>
+2) Translated WordSim-353 for <a href="https://github.com/ajesujoba/YorubaTwi-Embedding/blob/master/Yoruba/wordSim353_yo.csv">Yorùbá</a>
 3) <a href="https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yor%C3%B9b%C3%A1-NER"> Yorùbá NER </a> dataset
 Data set from the Niger Volta-Language Technology Institute can be gotten<a href="https://github.com/Niger-Volta-LTI/yoruba-text"> here  </a>
 
