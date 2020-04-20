@@ -3383,8 +3383,8 @@ jẹ́	O
 ológun	O
 àná	O
 (	O
-láti	O
-ọdún	B-DATE
+láti	B-DATE
+ọdún	I-DATE
 1976	I-DATE
 sí	I-DATE
 1979	I-DATE
@@ -7253,9 +7253,9 @@ lọ́dún	B-DATE
 	
 Oṣù	B-DATE
 mẹ́ta	I-DATE
-àti	O
-ọjọ́	O
-mẹ́wàá	O
+àti	I-DATE
+ọjọ́	I-DATE
+mẹ́wàá	I-DATE
 ni	O
 a	O
 fi	O
@@ -9560,13 +9560,13 @@ láti	O
 se	O
 lórí	O
 Unionradionet	B-ORG
-láti	O
-aago	B-DATE
+láti	B-DATE
+aago	I-DATE
 10:00	I-DATE
-alẹ́	O
-sí	O
-5:00	O
-ìdájí	O
+alẹ́	I-DATE
+sí	I-DATE
+5:00	I-DATE
+ìdájí	I-DATE
 DóndeEstáLuisCarlos	O
 .	O
 	
