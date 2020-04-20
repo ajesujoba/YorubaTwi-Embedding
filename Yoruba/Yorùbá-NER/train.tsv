@@ -334,9 +334,9 @@ Ayélujára	O
 .	O
 	
 Ní	O
-àárín	O
-ọdún	O
-kan	O
+àárín	B-DATE
+ọdún	I-DATE
+kan	I-DATE
 tí	O
 a	O
 kéde	O
@@ -966,8 +966,8 @@ láti	O
 2005	I-DATE
 .	O
 	
-Ní	B-DATE
-ọdún	I-DATE
+Ní	O
+ọdún	B-DATE
 2015	I-DATE
 ,	O
 àwọn	O
@@ -4085,9 +4085,9 @@ nínú	O
 Oṣù	B-DATE
 Kejì	I-DATE
 ọdún	I-DATE
-tí	O
-ó	O
-kọjá	O
+tí	I-DATE
+ó	I-DATE
+kọjá	I-DATE
 ,	O
 ajagun	O
 fẹ̀yìntì	O
@@ -4235,8 +4235,8 @@ ipò	O
 ní	O
 ọjọ́	B-DATE
 16	I-DATE
-,	O
-oṣù	B-DATE
+,	I-DATE
+oṣù	I-DATE
 2019	I-DATE
 .	O
 	
@@ -4596,8 +4596,8 @@ ní	O
 Olusegun	B-PER
 Obasanjo	I-PER
 ní	O
-àárín	O
-ọdún	B-DATE
+àárín	B-DATE
+ọdún	I-DATE
 1999	I-DATE
 sí	I-DATE
 2007	I-DATE
@@ -4618,8 +4618,8 @@ Ilẹ̀	B-LOC
 Adúláwọ̀	I-LOC
 ìgbà	O
 kan	O
-láti	O
-oṣù	B-DATE
+láti	B-DATE
+oṣù	I-DATE
 Igbe	I-DATE
 ọdún	I-DATE
 2007	I-DATE
@@ -4716,8 +4716,8 @@ rí	O
 ní	O
 United	B-ORG
 Nations	I-ORG
-láti	O
-ọdún	B-DATE
+láti	B-DATE
+ọdún	I-DATE
 1992	I-DATE
 sí	I-DATE
 2008	I-DATE
@@ -5157,8 +5157,8 @@ sí	O
 SIC	B-ORG
 .	O
 	
-Láàárín	O
-ọ̀sẹ̀	B-DATE
+Láàárín	B-DATE
+ọ̀sẹ̀	I-DATE
 kan	I-DATE
 náà	O
 ,	O
@@ -5877,8 +5877,8 @@ tó	O
 ìtìmọ́lé	O
 ọdún	B-DATE
 méjì	I-DATE
-sí	O
-mẹ́jọ	O
+sí	I-DATE
+mẹ́jọ	I-DATE
 .	O
 	
 Sizaltina	B-PER
@@ -6282,8 +6282,8 @@ láti	O
 pa	O
 nínú	O
 ẹ̀wọ̀n	O
-láàárín	O
-òru	O
+láàárín	B-DATE
+òru	I-DATE
 ,	O
 ní	O
 Inal	O
@@ -6997,9 +6997,9 @@ sí	O
 tí	O
 ó	O
 rí	O
-láàárín	O
-ọdún	O
-mẹ́rìnlélógún	O
+láàárín	B-DATE
+ọdún	I-DATE
+mẹ́rìnlélógún	I-DATE
 tí	O
 ó	O
 fi	O
@@ -9938,9 +9938,9 @@ ibi	O
 )	O
 .	O
 	
-Láàrin	O
-ọjọ́	O
-péréte	O
+Láàrin	B-DATE
+ọjọ́	I-DATE
+péréte	I-DATE
 tó	O
 ṣíwájú	O
 ìpòóráa	O
@@ -14421,11 +14421,11 @@ Tẹ̀mbẹ̀lẹ̀kun	O
 Akànṣẹ́	O
 ní	O
 China	B-LOC
-láàárín-in	O
-ọdún	B-DATE
+láàárín-in	B-DATE
+ọdún	I-DATE
 1899	I-DATE
-àti	O
-1901	B-DATE
+àti	I-DATE
+1901	I-DATE
 nígbàtí	O
 àwọn	O
 àgbẹ̀	O
@@ -15199,8 +15199,8 @@ Abódiakọ-akọ́diabo	O
 Ènìyàn	O
 ọjọ́	B-DATE
 24	I-DATE
-,	O
-oṣù	B-DATE
+,	I-DATE
+oṣù	I-DATE
 Èbìbì	I-DATE
 2018	I-DATE
 .	O
@@ -16073,8 +16073,8 @@ alẹ́	O
 Ìtunu	O
 Àwẹ̀	O
 5	B-DATE
-,	O
-oṣù	B-DATE
+,	I-DATE
+oṣù	I-DATE
 Òkúdù	I-DATE
 2019	I-DATE
 .	O
@@ -16246,8 +16246,8 @@ nínú	O
 Ní	O
 ọjọ́	B-DATE
 13	I-DATE
-,	O
-oṣù	B-DATE
+,	I-DATE
+oṣù	I-DATE
 Ògún	I-DATE
 ọdún-un	I-DATE
 2018	I-DATE
@@ -18060,8 +18060,8 @@ rán	O
 sọ́run	O
 àpàpàǹdodo	O
 ní	O
-àárín-in	O
-oṣù	B-DATE
+àárín-in	B-DATE
+oṣù	I-DATE
 Èbìbí	I-DATE
 ọdún-un	I-DATE
 2016	I-DATE
@@ -20085,11 +20085,11 @@ Erinmi	O
 ní	O
 ọjọ́	B-DATE
 16	I-DATE
-,	O
-oṣù	B-DATE
+,	I-DATE
+oṣù	I-DATE
 Belu	I-DATE
-,	O
-ọdún	B-DATE
+,	I-DATE
+ọdún	I-DATE
 2014	I-DATE
 ,	O
 ní	O

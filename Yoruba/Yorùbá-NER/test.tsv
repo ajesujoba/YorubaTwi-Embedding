@@ -1971,10 +1971,10 @@ tí	O
 ó	O
 wà	O
 ,	O
-àárín	O
-oṣù	B-DATE
+àárín	B-DATE
+oṣù	I-DATE
 Ọ̀wẹwẹ̀	I-DATE
-àti	O
+àti	I-DATE
 Ọ̀wàrà	B-DATE
 .	O
 	
@@ -2448,8 +2448,8 @@ gbé-sórí-áfẹ́fẹ́	O
 ní	O
 ọjọ́	B-DATE
 29	I-DATE
-,	O
-oṣù	B-DATE
+,	I-DATE
+oṣù	I-DATE
 Ọ̀pẹ	I-DATE
 lẹ́yìn	O
 tí	O
@@ -3320,7 +3320,7 @@ ní	O
 òwúrọ̀	O
 Ọjọ́rú	B-DATE
 23	I-DATE
-,	O
+,	I-DATE
 ní	B-DATE
 oṣù	I-DATE
 Ṣẹẹrẹ	I-DATE
@@ -4613,6 +4613,7 @@ oṣù	I-DATE
 ,	I-DATE
 ọdún	I-DATE
 2019	I-DATE
+
 Ní	O
 ọjọ́	B-DATE
 8	I-DATE
@@ -4721,9 +4722,9 @@ ilé	O
 ẹbíi	O
 rẹ̀	O
 nínú	O
-oṣù	O
-Belu	O
-ọdún	B-DATE
+oṣù	B-DATE
+Belu	I-DATE
+ọdún	I-DATE
 2013	I-DATE
 .	O
 	
@@ -5226,8 +5227,8 @@ tí	O
 wáyé	O
 ní	O
 Toronto	B-LOC
-nínú	B-DATE
-oṣù	I-DATE
+nínú	O
+oṣù	B-DATE
 Èbìbì	I-DATE
 ọdún	I-DATE
 2018	I-DATE
