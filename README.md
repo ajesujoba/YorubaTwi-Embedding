@@ -11,7 +11,7 @@ For the comparison, we define 3 datasets according to the quality and quantity o
 The evaluation datasets are the following:
 1) Translated WordSim-353 for <a href="https://github.com/ajesujoba/YorubaTwi-Embedding/blob/master/Twi/wordsim_tw.csv">Twi</a>
 2) Translated WordSim-353 for <a href="https://github.com/ajesujoba/YorubaTwi-Embedding/blob/master/Yoruba/wordSim353_yo.csv">Yorùbá</a>
-3) <a href="https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yor%C3%B9b%C3%A1-NER"> Yorùbá NER </a> dataset
+3) Yoruba named entity recognition (NER) dataset on Github <a href="https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yor%C3%B9b%C3%A1-NER"> Yorùbá NER </a> dataset
 
 Data set from the Niger Volta-Language Technology Institute can be gotten<a href="https://github.com/Niger-Volta-LTI/yoruba-text"> here  </a>
 
